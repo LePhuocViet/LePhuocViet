@@ -1,6 +1,20 @@
-This is my GitHub Account.
+# 👋 Hi there! I'm Viet Le
 
-<!---
-LePhuocViet/LePhuocViet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate software engineer with a strong interest in **Backend systems**.
+
+## 👨‍💻 About Me
+
+- 🎓 I'm a Software Engineering student.
+- 🧠 Interested in **Back End**
+- 🌱 Currently learning: `Java for Back End Web`, `JavaScript for Back End Web`, and building microservice architectures with `Spring Boot`.
+- 🔧 Tech stack: `Java`, `JavaScript` `Spring Boot`, `MySql` ,`Redis`, `Mongodb`, `NestJs`, `Docker`, `VPS`.
+- 🚀 Working on multiple projects including:
+  - An internal forum platform with voting, ads, and messaging.
+  - PDF to Excel data extraction project
+  - Logistics Management System
+
+## 📫 Let's Connect
+
+- 📧 Email: [lephuocviet0402@gmail.com]
+
+Thanks for visiting! Feel free to explore my repos and connect 😄
